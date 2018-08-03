@@ -8,6 +8,9 @@ jsons2xsd
 
 [JSON-schema](http://json-schema.org/) to [XML schema](https://www.w3.org/TR/xmlschema11-1/) converter written in Java.
 
+## Added a main class
+This forked version will look for all file names ending in .json and output .xsd under the same file name
+
 ## Dependency
 ```xml
 <dependency>
